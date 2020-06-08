@@ -1,0 +1,4 @@
+Heroku Üzerinden Çalıştırıcaksanız Github'a Ekledikten Sonra Github'a Procfile Adında Bir Dosya Açın.
+Açtıktan Sonra İçine Botunuzun Main Dosyası Hangisiyse Şu Şekilde Yazınız: worker node bot.js Yazıp Kaydedin.
+Sonra Heroku'ya Bağlayıp Çalıştırın. Otomatik Yüklemeler Yapılıp Bot Çalışıcaktır.
+NOT: Ayarlar.json'dan Token, Prefix ve Bot Sahip ID girmeyi Unutmayın.
