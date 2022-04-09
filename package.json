@@ -17,7 +17,7 @@
     "ffmpeg-static": "^4.2.2", // Müzik İçin
     "fs": "0.0.1-security",
     "hastebin-gen": "^2.0.5",
-    "moment": "^2.25.3",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.3.2",
     "ms": "^2.1.2",
     "quick.db": "^7.1.1",
